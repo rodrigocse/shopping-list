@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete (Store)</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 04:07:05</sys_created_on>
+        <sys_id>d19cbf492f085c101b22bab62799b6e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Store)</sys_name>
+        <sys_package display_value="ITSM Mobile" source="x_477523_itsm_mobi">868abb092f085c101b22bab62799b63b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile">868abb092f085c101b22bab62799b63b</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_d19cbf492f085c101b22bab62799b6e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 04:07:05</sys_updated_on>
+        <table>x_477523_itsm_mobi_store</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+</record_update>

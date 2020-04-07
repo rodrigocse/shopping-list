@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Shopping Item)">259cff492f085c101b22bab62799b621</button>
+        <item_parameter display_value="Shopping Item item">919cff492f085c101b22bab62799b61c</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 04:07:06</sys_created_on>
+        <sys_id>ad9cff492f085c101b22bab62799b628</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>919cff492f085c101b22bab62799b61c</sys_name>
+        <sys_package display_value="ITSM Mobile" source="x_477523_itsm_mobi">868abb092f085c101b22bab62799b63b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile">868abb092f085c101b22bab62799b63b</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_ad9cff492f085c101b22bab62799b628</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 04:07:06</sys_updated_on>
+        <ui_parameter display_value="Item">a59cff492f085c101b22bab62799b623</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
